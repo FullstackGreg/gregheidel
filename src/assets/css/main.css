@@ -1360,7 +1360,7 @@ ul#nav li a {
   line-height: 32px;
   text-decoration: none;
   text-align: left;
-  color: #000;
+  color: #7c6565;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -2215,7 +2215,7 @@ footer .social li:first-child {
     width: 48px;
     height: 48px;
     text-align: left;
-    background-color: #cc5200;
+    background-color: #5e40e6;
     position: relative;
     border: none;
     float: right;
