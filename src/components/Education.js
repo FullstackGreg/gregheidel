@@ -19,7 +19,7 @@ const Education = () => (
           </p>
 
           <p>
-            I graduated Cumma Sum Laude with a B.S. in Computer Science.  I originally
+            I graduated Summa Cum Laude with a B.S. in Computer Science.  I originally
             started as an MIS major so in addition I was a class or two from a minor
             in Business Administration.
           </p>
