@@ -21,7 +21,7 @@ const Education = () => (
           <p>
             I graduated Summa Cum Laude with a B.S. in Computer Science.  I originally
             started as an MIS major so in addition I was a class or two from a minor
-            in Business Administration.
+            in Business Administration and Math.
           </p>
         </div>
       </div>
