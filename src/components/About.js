@@ -12,7 +12,7 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Originally from Green Bay, Wisconsin, I grew up in central California. I graduated Cumma Sum Laude 
+          Originally from Green Bay, Wisconsin, I grew up in central California. I graduated Summa Cum Laude 
           with a B.S. in Computer Science from California State University at Sacramento and I am a firm believer 
           that learning and education are lifelong pursuits. I am a technology professional with over 30 years  
           of experience holding a variety of positions with companies of varying sizes and domains.  I have worked 
